@@ -216,8 +216,8 @@ primary_network_interface_id = "${azurerm_network_interface.vppnic.id}"
 
     os_profile {
         computer_name  = "myvm"
-        admin_username = "azureuser"
-	admin_password = "P0rt0gruar094!"
+        admin_username = "XXXX"
+	admin_password = "XXXX"
     }
 
     os_profile_linux_config {
