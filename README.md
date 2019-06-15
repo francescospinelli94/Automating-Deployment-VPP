@@ -18,6 +18,6 @@ terraform apply
 Then the script will ask you in which subnets, not present in the same VPC, you would to send packets. In case you don't need this option, you could comment the variable.
 
 
-*Warning*: this guide is updated at 19/02/2019. Hence in the meantimes that you are reading this guide, there could have been some changes. 
+*Warning*: this guide is updated at 19/02/2019. Hence in the meantimes that you are reading this guide, there could have been some changes. If you have any questions, please contact me! :) 
 
 
